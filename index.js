@@ -2,7 +2,7 @@
 
 const body = document.getElementById("cardBody");
 
-$.getJSON('', function (data) {
+$.getJSON('https://raw.githubusercontent.com/Jfrazia/jfrazia.github.io/main/index.json?token=AOAZWY7TOHWA3XKSKAZQGGDBJODWK', function (data) {
     data.cards.forEach(createCard);
 });
 
