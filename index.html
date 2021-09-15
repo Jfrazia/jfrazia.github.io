@@ -1,56 +1,111 @@
-<!DOCTYPE html>
+<!doctype html>
 <html>
+
 <head>
- <link rel="stylesheet"
-            href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.9.1/css/bulma.min.css"
-            />
-<style>
-header {
-  background-color: rgb(79, 30, 85);
-  padding: 30px;
-  text-align: center;
-  font-size: 35px;
-  color: green
-}
-
-button {
-  background-color:  rgb(79, 30, 85);
-  padding: 50px;
-  float: center;
-  font-size: 25px;
-  color: white
-}
-</style>
-
-<title>John Frazia</title>
-
+    <title>John Frazia</title>
+    <meta http-equiv='Content-Type' content='text/html; charset=utf-8'>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.9.1/css/bulma.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css"/>
+    <link rel="stylesheet" href="index.css" />
+    <link rel="shortcut icon" href="Icon.ico" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 </head>
-<body>
 
-<section class="hero" style="background-color:  rgb(79, 30, 85);">
-            <div class="hero-body">
-              <div class="container has-text-centered">
-                <h1 style ="font-size: 65px;" class="title is-1 centered has-text-white">
+<body class="has-background-white-ter">
+
+    <!-- Top Bar Header -->
+    <section class="hero is-dark">
+        <div class="hero-body">
+            <div class="container has-text-centered">
+                <h1 style="font-size: 65px;" class="title is-1 centered">
                     John Frazia
                 </h1>
-                <h1 style ="font-size: 35px;" class="title is-1 centered has-text-white">
-                    Game Designer and Audio Engineer
-                </h1>
+                <a style="padding: 1em;" href="mailto:jfrazia@wpi.edu">
+                    <span class="icon subtitle">
+                        <i class="fas fa-envelope" style="font-size: 40px;"></i>
+                    </span>
+                </a>
+                <a style="padding: 1em;" href="https://github.com/Jfrazia">
+                    <span class="icon subtitle">
+                        <i class="fab fa-github" style="font-size: 40px;"></i>
+                    </span>
+                </a>
+                <a style="padding: 1em;" href="https://www.linkedin.com/in/john-frazia-309a8a169/">
+                    <span class="icon subtitle">
+                        <i class="fab fa-linkedin-in" style="font-size: 40px;"></i>
+                    </span>
+                </a>
+                <a style="padding: 1em;" href="./documents/John Frazia Resume.pdf">
+                    <span class="icon subtitle">
+                        <i class="fas fa-file-alt" style="font-size: 40px;"></i>
+                    </span>
+                </a>
             </div>
-        </section>
-<br><br>
-<div class="columns">
-    <div class="column">
-       
-    </div>
-    <div class="column">
-        <div style="display:flex;justify-content:center;align-items:center;">
-        <button>
-            <a style ="font-size: 25px;" class="title is-1 centered has-text-white" href ="John Frazia Resume.pdf"> Resume</a>
-          </button>
+        </div>
+    </section>
+
+    <!-- About Me Box -->
+    <div class="is-hidden-touch" style="padding: 2% 5%;">
+        <div class="box has-background-grey-lighter">
+            <div class="card">
+                <article class="media">
+                    <figure class="media-left">
+                        <div class="column is-vcentered">
+                            <p class="image is-128x128">
+                                <img src="./images/Self_Portrait.jpg">
+                            </p>
+                        </div>
+                    </figure>
+                    <div class="media-content">
+                        <div style="padding-top: 1%;" class="content">
+                            <p class="title is-5">
+                                <strong>About Me</strong>
+                            </p>
+                            <p style="padding-right: 1%; padding-bottom: 2%;">Hardworking senior of Worcester Polytechnic Institute's (WPI) Interactive Media & Game Development major, specializing in audio engineering and game design. Despite my specialization, I also have experience programming and am familiar with design patterns such as finite state machines. WPI's focus and dedication on to project based learning curriculum has equipped with the knowledge, work ethic and team skills needed to be part of an efficient team.The curriculum has also put my leadership skills to the test, requiring me to step up to the plate to produce products with up to class sized teams.
+                            </p>
+                        </div>
+                    </div>
+                </article>
+            </div>
         </div>
     </div>
-    <div class="column">
-        
+
+    <div class="is-hidden-desktop columns" style="padding: 5%;">
+        <div class="box has-background-grey-lighter">
+            <div class="card">
+                <div class="card-image">
+                    <figure class="image">
+                        <img src="./images/Self_Portrait.jpg">
+                        </img> 
+                    </figure>
+                </div>
+                <div class="card-content">
+                    <div class="Media">
+                        <div class="media-content">
+                            <p class="title is-5">
+                                <strong>About Me</strong>
+                            </p>
+                            <p style="padding-right: 1%; padding-bottom: 2%;">Hardworking senior of Worcester Polytechnic Institute's (WPI) Interactive Media & Game Development major, specializing in audio engineering and game design. Despite my specialization, I also have experience programming and am familiar with design patterns such as finite state machines. WPI's focus and dedication on to project based learning curriculum has equipped with the knowledge, work ethic and team skills needed to be part of an efficient team.The curriculum has also put my leadership skills to the test, requiring me to step up to the plate to produce products with up to class sized teams.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
-  </div>
+
+    <!-- Project Title -->
+    <div>
+        <h1 class="title is-1" style="padding: 0% 5%;">
+            Projects
+        </h1>
+    </div>
+
+    <!-- Projects -->
+    <div class="columns is-multiline" style="padding: 3% 5%;" id="cardBody">
+    </div>
+    <script src="index.js"></script>
+</body>
+
+</html>

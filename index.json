@@ -1,0 +1,158 @@
+{
+    "cards": [
+        
+        {
+            "title": "Audio Library",
+            "description": "",
+            "image": "./images/IQP.png",
+            "tags": [
+                {
+                    "title": "Reaper",
+                    "color": "is-warning"
+                },
+                {
+                    "title": "School Project",
+                    "color": "is-danger"
+                }
+            ],
+            "links": [
+                {
+                    "title": "Project Page",
+                    "link": "https://wp.wpi.edu/london/projects/2020-projects-spring/lewisham/"
+                }
+            ]
+        },{
+            "title": "BlitzSpeeder Mix",
+            "description": "",
+            "image": "https://camo.githubusercontent.com/856f81322728b1b675475dfbb49d58972e80897d/68747470733a2f2f692e696d6775722e636f6d2f394872526d6a472e706e67",
+            "tags": [
+                {
+                    "title": "Reaper",
+                    "color": "is-warning"
+                },
+                {
+                    "title": "School Project",
+                    "color": "is-danger"
+                }
+            ],
+            "links": [
+                {
+                    "title": "Mix Link",
+                    "link": ""
+                }
+            ]
+        },
+        {
+            "title": "Experimental Cinema",
+            "description": "This project is an interactive film a group of students and I created for WPI's MQP program. Intended to be viewed on a mobile device, while watching, the viewer is able to interface with the film using the device's gyroscope features. Through their interactions, users can alter the course of the story or discover new story elements through environmental details. This project was made as a proof of concept for a whole new form of cinema, adapting the art form to take advantage of modern technology.",
+            "image": "./images/Experimental_Cinema.png",
+            "tags": [
+                {
+                    "title": "Unreal Engine",
+                    "color": "is-warning"
+                },
+                {
+                    "title": "School Project",
+                    "color": "is-danger"
+                }
+            ],
+            "links": [
+                {
+                    "title": "Download Link",
+                    "link": "https://drive.google.com/drive/folders/1581ML0GAgSVbSmi18E2RYxTli7LFeohH?usp=sharing"
+                },
+                {
+                    "title": "Video Demo",
+                    "link": "https://youtu.be/6t5GyRfhGMg"
+                }
+            ]
+        },
+        {
+            "title": "Rogue-Snake",
+            "description": "Rogue Snake is a game made with Unity that builds off of the classic game of Snake. The game features the classic gameplay of Snake, however, the play field has been greatly expanded into several rooms across a randomly generated dungeon. This project was created over the span of a week as a class project and as a part of PROCJAM, a yearly game jam celebrating procedural generation in entertainment.",
+            "image": "./images/Rogue_Snake.PNG",
+            "tags": [
+                {
+                    "title": "C#",
+                    "color": "is-warning"
+                },
+                {
+                    "title": "Unity",
+                    "color": "is-warning"
+                },
+                {
+                    "title": "PROCJAM 2019",
+                    "color": "is-danger"
+                },
+                {
+                    "title": "Class Project",
+                    "color": "is-danger"
+                }
+            ],
+            "links": [
+                {
+                    "title": "Source Code",
+                    "link": "https://github.com/kreiselman/Rogue-Snake"
+                },
+                {
+                    "title": "Itch.io",
+                    "link": "https://kreiselman.itch.io/rogue-snake"
+                }
+            ]
+        },
+        {
+            "title": "WebGL Demos",
+            "description": "Collection of project written in JavaScript using WebGL. <br><br> The first demo contains a spinning mobile with each shape and layer rotating and spinning independently from one another. A spotlight shine on the mobile that the user can freely control the size of. Additionally, the user can toggle between multiple different lighting methods for the mobile. <br><br> The second demo features the same mobile as the first demo. However, in this demo, the model spins inside of a textured room which the mobile can shine shadows onto. Additionally, the user can also enable reflection and refraction effects for the model.",
+            "image": "./images/WebGl.PNG",
+            "tags": [
+                {
+                    "title": "JavaScript",
+                    "color": "is-warning"
+                },
+                {
+                    "title": "WebGL",
+                    "color": "is-warning"
+                },
+                {
+                    "title": "Class Project",
+                    "color": "is-danger"
+                }
+            ],
+            "links": [
+                {
+                    "title": "Demo 1",
+                    "link": "https://bearl.dev/projects/WebGLSpotlight/Spotlight.html"
+                },
+                {
+                    "title": "Demo 2",
+                    "link": "https://bearl.dev/projects/WebGLTextures/Textures.html"
+                }
+            ]
+        },
+        {
+            "title": "Custom NPC System Demonstration",
+            "description": "To assist in the development of a game created for a class project, I created a system that streamlined the creation of NPCs to populate our world. Through the use of spreadsheets managed in Google Sheets, the team's artists and writers were able to easily write dialogue without needing to delve into the engine itself. As part of the class, I gave a presentation that ran through the workflow of creating an NPC for our game and how the system significantly streamlined the process.",
+            "image": "./images/NPC_System.jpeg",
+            "tags": [
+                {
+                    "title": "Unreal Engine",
+                    "color": "is-warning"
+                },
+                {
+                    "title": "Google Sheets",
+                    "color": "is-warning"
+                },
+                {
+                    "title": "School Project",
+                    "color": "is-danger"
+                }
+            ],
+            "links": [
+                {
+                    "title": "Video Demonstration",
+                    "link": "https://youtu.be/MsaUh4AWrFk"
+                }
+            ]
+        }
+    ]
+}
