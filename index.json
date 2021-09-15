@@ -17,14 +17,14 @@
             ],
             "links": [
                 {
-                    "title": "Project Page",
-                    "link": "https://wp.wpi.edu/london/projects/2020-projects-spring/lewisham/"
+                    "title": "Drive Link",
+                    "link": "https://drive.google.com/drive/folders/1gcmW4jbIhKJaGqLdTOdWQ391U6dRJ45E?usp=sharing"
                 }
             ]
         },{
             "title": "BlitzSpeeder Mix",
             "description": "",
-            "image": "https://camo.githubusercontent.com/856f81322728b1b675475dfbb49d58972e80897d/68747470733a2f2f692e696d6775722e636f6d2f394872526d6a472e706e67",
+            "image": "./images/Reaper_Screenshot.png",
             "tags": [
                 {
                     "title": "Reaper",
