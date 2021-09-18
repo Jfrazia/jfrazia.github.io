@@ -13,6 +13,10 @@
                 {
                     "title": "School Project",
                     "color": "is-danger"
+                },
+                {
+                    "title": "Audio Work",
+                    "color": "is-info"
                 }
             ],
             "links": [
@@ -34,6 +38,14 @@
                 {
                     "title": "School Project",
                     "color": "is-danger"
+                },
+                {
+                    "title": "Audio Work",
+                    "color": "is-info"
+                },
+                {
+                    "title": "Design Work",
+                    "color": "is-info"
                 }
             ],
             "links": [
@@ -52,6 +64,10 @@
                 {
                     "title": "School Project",
                     "color": "is-danger"
+                },
+                {
+                    "title": "Audio Work",
+                    "color": "is-info"
                 }
             ],
             "links": [
@@ -63,8 +79,8 @@
         },
         {
             "title": "Alien Outbreak",
-            "description": "Alien Outbreak is a game I crafted alongside a team of fellow students for my school's highest level undergraduate game design course. As this class was conducted during the COVID19 Pandemic, all of the work for this project was done remotely, with some members even living off shore. Additionally, half of my team consisted of students from my school's art program as well, require coordination between the two sides to complete the game. As the project leader, this project truely put my team coordination skills to the test, coordinating cross team to ensure everything got completed.",
-            "image": "./images/WorkInProgress.jpg",
+            "description": "Alien Outbreak is a game I crafted alongside a team of fellow students for my school's highest level undergraduate game design course. As this class was conducted during the COVID19 Pandemic, all of the work for this project was done remotely, with some members even living off shore. Additionally, half of my team consisted of students from my school's art program as well, requiring coordination between the two sides to complete the game. As the project leader, this project truly put my team coordination skills to the test, coordinating cross team to ensure everything got completed. Besides my role as the project lead, I held may other responsibilities, such as: lead character programmer, camera programmer, art implementation, and audio implementation.",
+            "image": "./images/Unreal_Screenshot.png",
             "tags": [
                 {
                     "title": "Unreal",
@@ -73,12 +89,45 @@
                 {
                     "title": "School Project",
                     "color": "is-danger"
+                },
+                {
+                    "title": "Design Work",
+                    "color": "is-info"
                 }
             ],
             "links": [
                 {
                     "title": "Project Website",
                     "link": "https://jfrazia.github.io/Team-Decahedron/"
+                }
+            ]
+        },
+        {
+            "title": "Mysterious Warehouse",
+            "description": "Mysterious Warehouse was a project done as an independent study for an experimental high level Audio course not yet offered by my school. Alongside one other member, we both recorded and edited foley sound effects, using Reaper as our DAW. Additional, I was the one responsible for implementing the audio components into our Unity Project.",
+            "image": "./images/Unity_Screenshot.PNG",
+            "tags": [
+                {
+                    "title": "Unity",
+                    "color": "is-warning"
+                },
+                {
+                    "title": "Reaper",
+                    "color": "is-warning"
+                },
+                {
+                    "title": "School Project",
+                    "color": "is-danger"
+                },
+                {
+                    "title": "Audio Work",
+                    "color": "is-info"
+                }
+            ],
+            "links": [
+                {
+                    "title": "Drive Link",
+                    "link": "https://drive.google.com/drive/folders/15UnchmEi4Z5XPlqBSFEuVPLnAx6vqCjv?usp=sharing"
                 }
             ]
         }
