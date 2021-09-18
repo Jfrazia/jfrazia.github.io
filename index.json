@@ -3,7 +3,7 @@
         
         {
             "title": "Audio Library",
-            "description": "In my Game Audio II class, we were put in groups of two and tasked with making a game audio library. In the drive link provided, it will have the audio clips that I recorded myself and edited. I used foley sound effects using a Zoom Mic to record and Reaper to edit the clips.",
+            "description": "During the course of my school's Game Audio II class, a fellow classmate and I were tasked with the creation of a game audio library. Used a Zoom H1n microphone we recorded our sound effects using various foley sound effect techniques. These recordings were then imported into Reaper to edit our sound effects to better meet our desired effect.",
             "image": "./images/AudioLibraryScreenshot.PNG",
             "tags": [
                 {
@@ -24,7 +24,7 @@
         },
         {
             "title": "Visual Novel MQP",
-            "description": "A current work-in-progress for a Visual Novel. I was responsible for writing, coding, design, composing, and audio engineering.",
+            "description": "A current work-in-progress Visual Novel created for my capstone project. My responsibilities consist of writing, coding, game design, music composition, and audio engineering.",
             "image": "./images/WorkInProgress.jpg",
             "tags": [
                 {
@@ -37,15 +37,12 @@
                 }
             ],
             "links": [
-                {
-                    "title": "",
-                    "link": ""
-                }
+               
             ]
         },
         {
             "title": "BlitzSpeeder Mix",
-            "description": "In my Game Audio II class, we were giving sound clips from a piece of work that the professor had worked on and were tasked with remixing it to around two minutes long. I used Reaper to do so, using plugins to edit the clips to my likings.",
+            "description": "For my school's official highest level Game Audio class, we were tasked to craft a unique song using audio samples provided by the professor. Using Reaper and its various builtin plugins, I construced a song lasting 2 minutes in length.",
             "image": "./images/Reaper_Screenshot.PNG",
             "tags": [
                 {
@@ -63,7 +60,27 @@
                     "link": ""
                 }
             ]
+        },
+        {
+            "title": "Alien Outbreak",
+            "description": "Alien Outbreak is a game I crafted alongside a team of fellow students for my school's highest level undergraduate game design course. As this class was conducted during the COVID19 Pandemic, all of the work for this project was done remotely, with some members even living off shore. Additionally, half of my team consisted of students from my school's art program as well, require coordination between the two sides to complete the game. As the project leader, this project truely put my team coordination skills to the test, coordinating cross team to ensure everything got completed.",
+            "image": "./images/WorkInProgress.jpg",
+            "tags": [
+                {
+                    "title": "Unreal",
+                    "color": "is-warning"
+                },
+                {
+                    "title": "School Project",
+                    "color": "is-danger"
+                }
+            ],
+            "links": [
+                {
+                    "title": "Project Website",
+                    "link": "https://jfrazia.github.io/Team-Decahedron/"
+                }
+            ]
         }
-      
     ]
 }
