@@ -4,7 +4,7 @@
         {
             "title": "Audio Library",
             "description": "In my Game Audio II class, we were put in groups of two and tasked with making a game audio library. In the drive link provided, it will have the audio clips that I recorded myself and edited. I used foley sound effects using a Zoom Mic to record and Reaper to edit the clips.",
-            "image": "./images/AudioLibraryScreenshot.png",
+            "image": "./images/AudioLibraryScreenshot.PNG",
             "tags": [
                 {
                     "title": "Reaper",
@@ -25,7 +25,7 @@
         {
             "title": "Visual Novel MQP",
             "description": "A current work-in-progress for a Visual Novel. I was responsible for writing, coding, design, composing, and audio engineering.",
-            "image": "",
+            "image": "./images/WorkInProgress.jpg",
             "tags": [
                 {
                     "title": "Ren'Py",
