@@ -3,8 +3,8 @@
         
         {
             "title": "Audio Library",
-            "description": "",
-            "image": "./images/IQP.png",
+            "description": "In my Game Audio II class, we were put in groups of two and tasked with making a game audio library. In the drive link provided, it will have the audio clips that I recorded myself and edited. I used foley sound effects using a Zoom Mic to record and Reaper to edit the clips.",
+            "image": "./images/AudioLibraryScreenshot.png",
             "tags": [
                 {
                     "title": "Reaper",
@@ -21,9 +21,31 @@
                     "link": "https://drive.google.com/drive/folders/1gcmW4jbIhKJaGqLdTOdWQ391U6dRJ45E?usp=sharing"
                 }
             ]
-        },{
+        },
+        {
+            "title": "Visual Novel MQP",
+            "description": "A current work-in-progress for a Visual Novel. I was responsible for writing, coding, design, composing, and audio engineering.",
+            "image": "",
+            "tags": [
+                {
+                    "title": "Ren'Py",
+                    "color": "is-warning"
+                },
+                {
+                    "title": "School Project",
+                    "color": "is-danger"
+                }
+            ],
+            "links": [
+                {
+                    "title": "",
+                    "link": ""
+                }
+            ]
+        },
+        {
             "title": "BlitzSpeeder Mix",
-            "description": "",
+            "description": "In my Game Audio II class, we were giving sound clips from a piece of work that the professor had worked on and were tasked with remixing it to around two minutes long. I used Reaper to do so, using plugins to edit the clips to my likings.",
             "image": "./images/Reaper_Screenshot.PNG",
             "tags": [
                 {
