@@ -21,14 +21,15 @@
             ],
             "links": [
                 {
-
+              
                 }
+                
             ]
         },
         {
             "title": "Gravity Xscape",
             "description": "In my undergraduate studio course, two others and I were tasked with making a game in seven weeks. We split the responsibilites of the game, with me being in charge of audio production and implementation. I created two songs for the game, trying to focus more on fitting the theme instead of having a perfect song.",
-            "image": "./images/Gravity_Escape.PNG",
+            "image": "./images/Gravity_Xscape.PNG",
             "tags": [
                 {
                     "title": "Unity",
@@ -53,7 +54,7 @@
         {
             "title": "Visual Novel MQP",
             "description": "A current work-in-progress Visual Novel created for my capstone project. My responsibilities consist of writing, coding, game design, music composition, and audio engineering.",
-            "image": "./images/WorkInProgress.jpg",
+            "image": "./images/NEH1.png",
             "tags": [
                 {
                     "title": "Ren'Py",
