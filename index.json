@@ -4,7 +4,7 @@
         {
             "title": "Tsubo-Niwa: A Garden Dream",
             "description": "For my graduate studio course, I was tasked with assisting with an undergraduate capstone project. This was a VR audio experience that had an external client in Kyoto that we worked with. I handled the audio implemenation and editing. More specifically, getting spatialization working for our flock and having said flock's sound changed depending on the distance between the player and the flock. I also worked with binarual beats, implementing them within Unity. I sadly do not have a way to access this project at the moment, but hopefully soon I can either have an exe or a link to the exhibit.",
-            "image": "",
+            "image": "./images/Tsubo-Niwa.PNG",
             "tags": [
                 {
                     "title": "Unity",
@@ -23,7 +23,7 @@
         {
             "title": "Gravity Xscape",
             "description": "In my undergraduate studio course, two others and I were tasked with making a game in seven weeks. We split the responsibilites of the game, with me being in charge of audio production and implementation. I created two songs for the game, trying to focus more on fitting the theme instead of having a perfect song.",
-            "image": "",
+            "image": "./images/Gravity_Escape.PNG",
             "tags": [
                 {
                     "title": "Unity",
