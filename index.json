@@ -18,6 +18,13 @@
                     "title": "Audio Work",
                     "color": "is-info"
                 }
+            ],
+            "links": [
+                {
+                    "title": "Under Construction!"
+
+                }
+                
             ]
         },
         {
@@ -65,6 +72,11 @@
                 {
                     "title": "Design Work",
                     "color": "is-info"
+                }
+            ],
+            "links": [
+                {
+                    "title": "Under Construction!"
                 }
             ]
         }
