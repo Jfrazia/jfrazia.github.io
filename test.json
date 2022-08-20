@@ -208,39 +208,6 @@
                             "link": "http://alpheus.wpi.edu/imgd/oral-history/interviews/mbreault.html"
                         }
                     ]
-                },
-                {
-                    "title": "Youtube Channel",
-                    "description": "On my Youtube Channel, there are videos that I've made both for classes and for personal projects. This channel will grdaually be updated with more videos as time goes on.",
-                    "image": "./images/youtubelogo.jpg",
-                    "tags": [
-                        {
-                            "title":"Non-Game Development",
-                            "color":"green"
-                        },
-                        {
-                            "title": "Premiere",
-                            "color": "yellow"
-                        },
-                        {
-                            "title": "School Project",
-                            "color": "red"
-                        },
-                        {
-                            "title": "Audio Work",
-                            "color": "teal"
-                        },
-                        {
-                            "title": "Video Editing Work",
-                            "color": "teal"
-                        }
-                    ],
-                    "links": [
-                        {
-                            "title": "Youtube Link",
-                            "link": "https://www.youtube.com/channel/UC76Hu6cNo1vU7CnPg6hqqpA"
-                        }
-                    ]
                 }
             ]
         }
