@@ -142,7 +142,7 @@
                 {
                     "title": "Sparrow - Vertical Slice",
                     "description": "For this course, I excitedly created a vertical slice for a pet project of mine. Everything in the environment was made by me, other than the sea of water. I mostly focused on programming and 3D modeling, only spending a few hours on the song in the background. Every 3D model in the game, including the parts of the plane are modular, allowing for ease of creation.",
-                    "image": "./images/8.PNG",
+                    "image": "./images/8.png",
                     "tags": [
                         {
                             "title":"Game Development",
@@ -179,7 +179,7 @@
                 {
                     "title": "Oral History of Video Games",
                     "description": "During my junior year, I gladly worked on an Oral History project involving the industry veteran, Mike Breault. My partner and I had a wonderful online interview with him and after that interview, edited the full video into bite-sized pieces for easier consumption.",
-                    "image": "./images/siglogo.PNG",
+                    "image": "./images/siglogo.png",
                     "tags": [
                         {
                             "title":"Non-Game Development",
