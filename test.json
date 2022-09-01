@@ -71,6 +71,31 @@
                     ]
                 },
                 {
+                    "title": "Sound Effects Library",
+                    "description": "I had the pleasure of creating a sound effects library purely made of sounds that a partner and I recorded and edited. We created Foley sound effects to achieve different sounds, refining and modifying the recorded sounds within REAPER.",
+                    "image": "./images/AudioLibraryScreenshot.PNG",
+                    "tags": [
+                        {
+                            "title":"Game Development",
+                            "color":"green"
+                        },
+                        {
+                            "title": "Reaper",
+                            "color": "yellow"
+                        },
+                        {
+                            "title": "School Project",
+                            "color": "red"
+                        },
+                        {
+                            "title": "Audio Work",
+                            "color": "teal"
+                        }
+                    ],
+                    "links": [
+                    ]
+                },
+                {
                     "title": "Gravity Xscape",
                     "description": "In my undergraduate studio course, I made a game with 2 others in seven weeks. We split the responsibilites of the game, and I was our audio lead. I created two songs for the game, trying to focus more on fitting the theme instead of having a perfect song. I also made the sound effects, implemented the audio and made audio sliders in the menu. I had to manage the amount of time spent on this project, due to it being one of the four projects I made around this time, thus not being able to give it my 100 percent.",
                     "image": "./images/Gravity_Xscape.PNG",
@@ -96,6 +121,39 @@
                         {
                             "title": "Drive Link",
                             "link": "./projects/Gravity_Xscape.zip"
+                        }
+                    ]
+                },
+                {
+                    "title": "Oral History of Video Games",
+                    "description": "During my junior year, I gladly worked on an Oral History project involving the industry veteran, Mike Breault. My partner and I had a wonderful online interview with him and after that interview, edited the full video into bite-sized pieces for easier consumption.",
+                    "image": "./images/siglogo.png",
+                    "tags": [
+                        {
+                            "title":"Non-Game Development",
+                            "color":"green"
+                        },
+                        {
+                            "title": "Premiere",
+                            "color": "yellow"
+                        },
+                        {
+                            "title": "School Project",
+                            "color": "red"
+                        },
+                        {
+                            "title": "Audio Work",
+                            "color": "teal"
+                        },
+                        {
+                            "title": "Video Editing Work",
+                            "color": "teal"
+                        }
+                    ],
+                    "links": [
+                        {
+                            "title": "Oral History Website",
+                            "link": "http://alpheus.wpi.edu/imgd/oral-history/interviews/mbreault.html"
                         }
                     ]
                 },
@@ -135,7 +193,8 @@
                     ],
                     "links": [
                         {
-                            "title": "Under Construction!"
+                            "title": "itch.io page",
+                            "link": "https://jfrazia.itch.io/another-try"
                         }
                     ]
                 },
@@ -173,39 +232,6 @@
                         {
                             "title": "Download Link",
                             "link": "https://drive.google.com/file/d/1cHFzcQ2JJJOolJTMlbcwkV1w5ngBfGl-/view?usp=sharing"
-                        }
-                    ]
-                },
-                {
-                    "title": "Oral History of Video Games",
-                    "description": "During my junior year, I gladly worked on an Oral History project involving the industry veteran, Mike Breault. My partner and I had a wonderful online interview with him and after that interview, edited the full video into bite-sized pieces for easier consumption.",
-                    "image": "./images/siglogo.png",
-                    "tags": [
-                        {
-                            "title":"Non-Game Development",
-                            "color":"green"
-                        },
-                        {
-                            "title": "Premiere",
-                            "color": "yellow"
-                        },
-                        {
-                            "title": "School Project",
-                            "color": "red"
-                        },
-                        {
-                            "title": "Audio Work",
-                            "color": "teal"
-                        },
-                        {
-                            "title": "Video Editing Work",
-                            "color": "teal"
-                        }
-                    ],
-                    "links": [
-                        {
-                            "title": "Oral History Website",
-                            "link": "http://alpheus.wpi.edu/imgd/oral-history/interviews/mbreault.html"
                         }
                     ]
                 }
